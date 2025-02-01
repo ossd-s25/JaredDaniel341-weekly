@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 1   | [OpenStreetMap](https://www.openstreetmap.org/changeset/162001195)    | OpenStreetMap update    |   Added 2 missing bus stops on the Q83 line.    |
 |     |     |     |      |
 |     |     |     |      |
