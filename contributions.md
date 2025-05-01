@@ -26,3 +26,4 @@ Replace the first row with your own contribution.
 |   Feb 8  |  [OpenStreetMap](https://www.openstreetmap.org/changeset/162292752#map=19/40.703469/-73.799604)   |  OpenStreetMap update   |   Relocated and added stores, marked closed businesses as disused or vacant.  |
 | Feb 22 | [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jkd341)    |  Wikipedia edit   |   Added information about the Megaman Battle Network series.   |
 | Apr 19 | [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jkd341)    |  Wikipedia edit   |   Added information about open source DAWs.   |
+| May 1 | [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jkd341)    |  Wikipedia edit   |   Added information about SoundFont functionality.   |
