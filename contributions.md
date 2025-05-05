@@ -28,3 +28,4 @@ Replace the first row with your own contribution.
 | Apr 19 | [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jkd341)    |  Wikipedia edit   |   Added information about open source DAWs.   |
 | May 1 | [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jkd341)    |  Wikipedia edit   |   Added information about SoundFont functionality.   |
 | May 1 | [GitHub](https://github.com/mgba-emu/mgba/issues/3441#issuecomment-2845860839)    |  Github comment   |   Asked a question/commented on issue for a new feature for the mGBA emulator.   |
+| May 4 | [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jkd341)    |  Wikipedia edit   |   Added information about the music of Shadow Generations.   |
