@@ -27,5 +27,6 @@ Replace the first row with your own contribution.
 | Feb 22 | [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jkd341)    |  Wikipedia edit   |   Added information about the Megaman Battle Network series.   |
 | Apr 19 | [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jkd341)    |  Wikipedia edit   |   Added information about open source DAWs.   |
 | May 1 | [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jkd341)    |  Wikipedia edit   |   Added information about SoundFont functionality.   |
-| May 1 | [GitHub](https://github.com/mgba-emu/mgba/issues/3441#issuecomment-2845860839)    |  Github comment   |   Asked a question/commented on issue for a new feature for the mGBA emulator.   |
+| May 1 | [GitHub Discussion](https://github.com/mgba-emu/mgba/issues/3441#issuecomment-2845860839)    |  Github comment   |   Asked a question/commented on issue for a new feature for the mGBA emulator.   |
 | May 4 | [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Jkd341)    |  Wikipedia edit   |   Added information about the music of Shadow Generations.   |
+| May 5 | [Github PR](https://github.com/alfg/opendrinks/pull/1440)    |  PR   |   Made a pull request to add a drink to open drinks.   |
